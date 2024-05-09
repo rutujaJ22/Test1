@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-18T22:47:14 IST" name="Default suite" finished-at="2024-04-18T22:47:53 IST" duration-ms="39630">
+    <groups>
+    </groups>
+    <test started-at="2024-04-18T22:47:14 IST" name="Default test" finished-at="2024-04-18T22:47:53 IST" duration-ms="39630">
+      <class name="test_class.TestClass1">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test_class.TestClass1@7fa98a66]" started-at="2024-04-18T22:47:14 IST" name="launchBrowser" finished-at="2024-04-18T22:47:16 IST" duration-ms="2299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchHomePageBeforeLogin()[pri:0, instance:test_class.TestClass1@7fa98a66]" started-at="2024-04-18T22:47:16 IST" name="launchHomePageBeforeLogin" finished-at="2024-04-18T22:47:35 IST" duration-ms="19340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchHomePageBeforeLogin -->
+        <test-method signature="verifyUserCanSelectProductWithOutLogin()[pri:1, instance:test_class.TestClass1@7fa98a66]" started-at="2024-04-18T22:47:35 IST" name="verifyUserCanSelectProductWithOutLogin" finished-at="2024-04-18T22:47:53 IST" duration-ms="17956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanSelectProductWithOutLogin -->
+      </class> <!-- test_class.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
