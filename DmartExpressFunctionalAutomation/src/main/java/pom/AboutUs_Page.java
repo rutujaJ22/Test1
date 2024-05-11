@@ -47,5 +47,10 @@ public class AboutUs_Page {
 		return hours.getText();   // here i want to  use the code of html table => findelements , List collection 
     }
 	
+   public String getDaysAndHourss() {   // delete this method later
+		
+		return hours.getText();   // here i want to  use the code of html table => findelements , List collection 
+    }
+	
 
 }
