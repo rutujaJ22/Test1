@@ -54,4 +54,9 @@ public class ContactUs_Page {
 		getDirection.click();
 	}
 	
+	public void clickOnDiretionss() {   // delete later
+		
+		getDirection.click();
+	}
+	
 }
