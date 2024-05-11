@@ -33,6 +33,8 @@ public class Cart_DmartExpress_page {
 		return letsFillItUp.getText();
 	}
 	
-	
+	public String getMassage21() {
+		return letsFillItUp.getText();   // delete later
+	}
 	
 }
